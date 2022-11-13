@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"shotgun-shell",
+			"aldryx",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"parasite",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"godrays",
+			"sol",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"promenade",
+			"niku",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "entity",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "te quiero IsabellaSarai",
+	"weekName": "Week entity",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
