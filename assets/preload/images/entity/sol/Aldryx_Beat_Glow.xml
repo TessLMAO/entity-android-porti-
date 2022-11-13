@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Aldryx_Beat_Glow.png">
+<SubTexture name="Aldryx_Bop0000" x="1932" y="0" width="493" height="1198" frameX="0" frameY="-4" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0001" x="1932" y="0" width="493" height="1198" frameX="0" frameY="-4" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0002" x="0" y="1201" width="485" height="1195" frameX="-11" frameY="-7" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0003" x="0" y="1201" width="485" height="1195" frameX="-11" frameY="-7" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0004" x="1449" y="0" width="483" height="1200" frameX="-8" frameY="-2" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0005" x="1449" y="0" width="483" height="1200" frameX="-8" frameY="-2" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0006" x="0" y="0" width="483" height="1201" frameX="-7" frameY="-1" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0007" x="0" y="0" width="483" height="1201" frameX="-7" frameY="-1" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0008" x="483" y="0" width="483" height="1201" frameX="-7" frameY="0" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0009" x="483" y="0" width="483" height="1201" frameX="-7" frameY="0" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0010" x="966" y="0" width="483" height="1201" frameX="-7" frameY="0" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0011" x="966" y="0" width="483" height="1201" frameX="-7" frameY="0" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0012" x="966" y="0" width="483" height="1201" frameX="-7" frameY="0" frameWidth="499" frameHeight="1205" />
+<SubTexture name="Aldryx_Bop0013" x="966" y="0" width="483" height="1201" frameX="-7" frameY="0" frameWidth="499" frameHeight="1205" />
+</TextureAtlas>
